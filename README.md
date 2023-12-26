@@ -10,6 +10,7 @@ Implemented a simple fractal drawing project which constructs a fractal using th
   
   -Repeat the last 2 steps for a number of iterations ( options for 8000 and 15000 iterations ).
   
+![Capture](https://github.com/dkaratsin/Fractal/assets/72718080/3cf8e0b8-4720-442e-aa35-35596a47b6f5)
 
 Notes: 
 
