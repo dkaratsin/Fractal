@@ -210,7 +210,7 @@ void main(int argc, char** argv)
 		glutInitDisplayMode (GLUT_DOUBLE | GLUT_RGB); /* default, not needed */
 		glutInitWindowSize(500,500); /* 500 x 500 pixel window */
 		glutInitWindowPosition(0,0); /* place window top left on display */
-		glutCreateWindow("1st_Project"); /* window title */
+		glutCreateWindow("Fractal"); /* window title */
 		glutDisplayFunc(display); /* display callback invoked when window opened */
 		glDrawBuffer(GL_BACK);
 		myinit(); /* set attributes */
